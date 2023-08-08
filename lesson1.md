@@ -74,149 +74,20 @@
 **Описание:** Запрос на внесение изменений в репозиторий (Pull Request).
 
 
+## Работа с удаленными репозиториями
 
+## Добавление удаленного репозитория
+**Команда:** `git remote add <имя> <URL>`
+**Описание:** Добавление удаленного репозитория
 
+## Получение изменений без интеграции (fetch)
+**Команда:** `git fetch <удаленный>`
+**Описание:** Получение изменений без интеграции (fetch)
 
-ikpjsdklgslkjgklsd
+## Просмотр списка удаленных репозиториев
+**Команда:** `git remote -v`
+**Описание:** росмотр списка удаленных репозиториев
 
-
-
-sad
-fdaws
-hgs
-gitsa
-gas
-gas
-fsdag
-
-
-sdgfsdfsdf
-
-sdgsdgsdgsdggsdg
-add`sdgfsdfsdfasd
-as
-asdas
-das
-asdasasd
-asdasasdasd
-as
-asdasasdasd
-
-
-sdgsdgsdgsdggsdg
-
----------------
-
-
-345563463466663
-
-
-refdwhngynfn
-
-dfghdfg
-
-
-
-
-
----------------
-
-ads
-dsa
-das
-dasdsa
-adsdas
-dasdas
-dassda
-stagingads
-dasdasdas
-adsdass
-dasdasdasads
-dasdas
-
-
-
-
-
-
-
-
-afasfas
-
-
-afasfas
-
-
-
-asdasdasd
-
-add`sdsad
-
-
-
-asd
-asddas
-
-
-
-12
-12
-312
-312
-312
-31
-2123
-12
-213
-123
-132
-132
-123
-123231
-123
-132
-13
-31
-13
-31
-31
-
-
-add`add`
-das
-
-
-
-add`das
-add`
-
-
-
-
-add`dassdaf
-sa
-
-sd
-git
-gsf
-
-gitg
-
-sdg
-gds
-gsd
-gdssd
-gdssd
-hs
-hss
-
-sahs
-hssh
-
-sh
-
-shhs
-hsshhfd
-dsgh
-dsa
-
+## Изменение ссылки на удаленный репозиторий
+**Команда:** `git remote set-url <имя> <новый_URL>`
+**Описание:** Изменение ссылки на удаленный репозиторий
