@@ -74,8 +74,7 @@
 **Описание:** Запрос на внесение изменений в репозиторий (Pull Request).
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 ikpjsdklgslkjgklsd
 
 
@@ -103,3 +102,12 @@ refdwhngynfn
 
 dfghdfg
 
+
+---------------
+
+
+
+
+
+afasfas
+>>>>>>> branch2
