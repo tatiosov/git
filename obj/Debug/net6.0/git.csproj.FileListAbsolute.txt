@@ -1,0 +1,5 @@
+C:\Users\artem\OneDrive\Рабочий стол\git\obj\Debug\net6.0\git.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\git\obj\Debug\net6.0\git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Рабочий стол\git\obj\Debug\net6.0\git.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\git\obj\Debug\net6.0\git.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Рабочий стол\git\obj\Debug\net6.0\git.csproj.CoreCompileInputs.cache
